@@ -42,7 +42,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Plexiglass/cutline.png</string> 
+      <string>./Plexiglass/cutline.png</string> 
      </void> 
      <void property="width"> 
       <float>0.5</float> 
@@ -75,7 +75,7 @@
       <string>Engraved Line</string> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Plexiglass/bigline.png</string> 
+      <string>./Plexiglass/bigline.png</string> 
      </void> 
     </object> 
    </void> 
@@ -106,7 +106,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Plexiglass/average.png</string> 
+      <string>./Plexiglass/average.png</string> 
      </void> 
     </object> 
    </void> 
@@ -145,7 +145,7 @@
       <string>Engrave Photo</string> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Plexiglass/floydsteinberg.png</string> 
+      <string>./Plexiglass/floydsteinberg.png</string> 
      </void> 
     </object> 
    </void> 
@@ -176,7 +176,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Plexiglass/3d.png</string> 
+      <string>./Plexiglass/3d.png</string> 
      </void> 
     </object> 
    </void> 
@@ -185,7 +185,7 @@
    <string>Acrylic Glass 3mm</string> 
   </void> 
   <void property="thumbnailPath"> 
-   <string>Plexiglass/profile.png</string> 
+   <string>./Plexiglass/profile.png</string> 
   </void> 
  </object> 
 </java> 

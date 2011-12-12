@@ -42,7 +42,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Finnpappe/cutline.png</string> 
+      <string>./Finnpappe/cutline.png</string> 
      </void> 
      <void property="width"> 
       <float>0.5</float> 
@@ -75,7 +75,7 @@
       <string>Engraved Line</string> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Finnpappe/bigline.png</string> 
+      <string>./Finnpappe/bigline.png</string> 
      </void> 
      <void property="width"> 
       <float>1.5</float> 
@@ -105,7 +105,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Finnpappe/average.png</string> 
+      <string>./Finnpappe/average.png</string> 
      </void> 
     </object> 
    </void> 
@@ -140,7 +140,7 @@
       <string>Engrave Photo</string> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Finnpappe/floydsteinberg.png</string> 
+      <string>./Finnpappe/floydsteinberg.png</string> 
      </void> 
     </object> 
    </void> 
@@ -167,7 +167,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>Finnpappe/3d.png</string> 
+      <string>./Finnpappe/3d.png</string> 
      </void> 
     </object> 
    </void> 
@@ -176,7 +176,7 @@
    <string>Finnpappe</string> 
   </void> 
   <void property="thumbnailPath"> 
-   <string>Finnpappe/profile.png</string> 
+   <string>./Finnpappe/profile.png</string> 
   </void> 
  </object> 
 </java> 
