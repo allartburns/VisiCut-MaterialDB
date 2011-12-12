@@ -31,7 +31,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>/Applications/VisiCut.app/Contents/Resources/Java/settings/cutters/epilog/materials/Plexiglass/cutline.png</string> 
+      <string>Plexiglass/cutline.png</string> 
      </void> 
     </object> 
    </void> 
@@ -58,7 +58,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>/Applications/VisiCut.app/Contents/Resources/Java/settings/cutters/epilog/materials/Plexiglass/average.png</string> 
+      <string>Plexiglass/average.png</string> 
      </void> 
     </object> 
    </void> 
@@ -90,7 +90,7 @@
       <string>Engrave Photo</string> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>/Applications/VisiCut.app/Contents/Resources/Java/settings/cutters/epilog/materials/Plexiglass/floydsteinberg.png</string> 
+      <string>Plexiglass/floydsteinberg.png</string> 
      </void> 
     </object> 
    </void> 
@@ -130,7 +130,7 @@
       <string>Engrave Deep</string> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>/Applications/VisiCut.app/Contents/Resources/Java/settings/cutters/epilog/materials/Plexiglass/average.png</string> 
+      <string>Plexiglass/average.png</string> 
      </void> 
     </object> 
    </void> 
@@ -139,7 +139,7 @@
    <string>Acrylic Glass 5mm</string> 
   </void> 
   <void property="thumbnailPath"> 
-   <string>/Applications/VisiCut.app/Contents/Resources/Java/settings/cutters/epilog/materials/Plexiglass/profile.png</string> 
+   <string>Plexiglass/profile.png</string> 
   </void> 
  </object> 
 </java> 

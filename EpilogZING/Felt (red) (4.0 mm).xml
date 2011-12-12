@@ -42,7 +42,7 @@
       </void> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>settings/cutters/epilog/materials/Filz/cutline.png</string> 
+      <string>Filz/cutline.png</string> 
      </void> 
     </object> 
    </void> 
@@ -75,7 +75,7 @@
       <string>Thick cut Line</string> 
      </void> 
      <void property="thumbnailPath"> 
-      <string>settings/cutters/epilog/materials/Filz/bigcut.png</string> 
+      <string>Filz/bigcut.png</string> 
      </void> 
      <void property="width"> 
       <float>2.5</float> 
@@ -87,7 +87,7 @@
    <string>Felt (red)</string> 
   </void> 
   <void property="thumbnailPath"> 
-   <string>settings/cutters/epilog/materials/Filz/profile.png</string> 
+   <string>Filz/profile.png</string> 
   </void> 
  </object> 
 </java> 

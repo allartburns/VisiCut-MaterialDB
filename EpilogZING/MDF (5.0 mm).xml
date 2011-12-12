@@ -191,7 +191,7 @@
    <string>MDF</string> 
   </void> 
   <void property="thumbnailPath"> 
-   <string>/Network/Servers/oliver.informatik.rwth-aachen.de/Volumes/Raid1/Users/oster/NetBeansProjects/VisiCut/settings/cutters/epilog/materials/MDF/profile.png</string> 
+   <string>MDF/profile.png</string> 
   </void> 
  </object> 
 </java> 
